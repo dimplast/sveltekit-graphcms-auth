@@ -2,8 +2,8 @@
 
 This respository is the the result from two very good articles and 
 
-1. "Authentication in SvelteKit using cookies" from Jannik Wempe (you can read [here](https://blog.logrocket.com/authentication-sveltekit-using-cookies/)
-2. "Next.js Authentication with NextAuth.js and GraphCMS" from Jamie Barton (you can read [here](https://graphcms.com/blog/nextjs-authenticaton-with-nextauth-and-graphcms) 
+1. "Authentication in SvelteKit using cookies" from Jannik Wempe (you can read [here](https://blog.logrocket.com/authentication-sveltekit-using-cookies/))
+2. "Next.js Authentication with NextAuth.js and GraphCMS" from Jamie Barton (you can read [here](https://graphcms.com/blog/nextjs-authenticaton-with-nextauth-and-graphcms))
 3. [Scott Spence](https://scottspence.com/)
 
 
