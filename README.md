@@ -12,7 +12,7 @@ and
   
 ### 1.Create a new GraphCMS project. 
     
-### 2.Create a Model with two fields Email and Password
+### 2.Create a Model (MyUser) with two fields Email and Password
 ![image](https://user-images.githubusercontent.com/20041017/145402569-47be061c-6f94-4287-b0d4-246ca549154f.png)
 
 ### 3.Create the file .env and add your GraphCMS endpoint and token:
