@@ -10,10 +10,11 @@ and
 
   of course the very good resources from [Scott Spence](https://scottspence.com/) 
 
-### First of all you need to make an .env file with
+###1.First of all you need to make an .env file with
   
 GRAPHCMS_ENDPOINT=\
-GRAPHCMS_TOKEN=
+GRAPHCMS_TOKEN=\
 
-
-
+npm install\
+cd sveltekit-graphcms-auth\
+npm run dev
