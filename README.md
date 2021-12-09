@@ -10,7 +10,7 @@ and
 
   of course the very good resources from [Scott Spence](https://scottspence.com/) 
 
-## First of all you need to make an .env file with
+# First of all you need to make an .env file with
   
   GRAPHCMS_ENDPOINT=
   GRAPHCMS_TOKEN=
