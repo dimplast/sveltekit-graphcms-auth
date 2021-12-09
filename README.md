@@ -19,7 +19,7 @@ and
 ### 3.Create the file .env and add your GraphCMS endpoint and token:
   
 GRAPHCMS_ENDPOINT=\
-GRAPHCMS_TOKEN=\
+GRAPHCMS_TOKEN=
 
 ### Get it Running
 1. Clone the repo
