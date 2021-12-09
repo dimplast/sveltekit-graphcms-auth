@@ -12,6 +12,8 @@ and
 
 ### First of all you need to make an .env file with
   
-  *GRAPHCMS_ENDPOINT=
-  *GRAPHCMS_TOKEN=
+GRAPHCMS_ENDPOINT=
+GRAPHCMS_TOKEN=
+
+
 
