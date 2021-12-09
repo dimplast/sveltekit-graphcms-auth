@@ -10,15 +10,13 @@ and
 
   of course the very good resources from [Scott Spence](https://scottspence.com/) 
   
-### 1. Create a new GraphCMS project. 
-    I'll make the assumption you already have a GraphCMS account, and project. If not, you know what to do.
+### 1.Create a new GraphCMS project. 
+   Read: [Next.js Authentication with NextAuth.js and GraphCMS](Next.js Authentication with NextAuth.js and GraphCMS)
     
-### 2. Create a Model with two fields 
+### 2.Create a Model with two fields Email and Password
 ![image](https://user-images.githubusercontent.com/20041017/145402569-47be061c-6f94-4287-b0d4-246ca549154f.png)
 
-
-
-### First of all you need to make an .env file with
+### 3.Create the file .env and add your GraphCMS endpoint and token:
   
 GRAPHCMS_ENDPOINT=\
 GRAPHCMS_TOKEN=\
