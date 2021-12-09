@@ -11,7 +11,6 @@ and
   of course the very good resources from [Scott Spence](https://scottspence.com/) 
   
 ### 1.Create a new GraphCMS project. 
-   Read: [Next.js Authentication with NextAuth.js and GraphCMS](https://graphcms.com/blog/nextjs-authenticaton-with-nextauth-and-graphcms)
     
 ### 2.Create a Model with two fields Email and Password
 ![image](https://user-images.githubusercontent.com/20041017/145402569-47be061c-6f94-4287-b0d4-246ca549154f.png)
