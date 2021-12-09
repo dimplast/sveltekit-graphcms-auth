@@ -1,6 +1,6 @@
-# create-svelte
+# Sveltekit with Graphcms - Authentication
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Reading Authentication in SvelteKit using cookies from Jannik Wempe (you can read [here](https://blog.logrocket.com/authentication-sveltekit-using-cookies/)
 
 ## Creating a project
 
